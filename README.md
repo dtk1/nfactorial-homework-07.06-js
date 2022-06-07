@@ -1,0 +1,1 @@
+# nfactorial-homework-07.06-js
